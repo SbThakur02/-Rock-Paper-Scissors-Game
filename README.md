@@ -20,16 +20,14 @@ Open the folder in your IDE or terminal
 Compile the code
 gcc rock_paper_scissors.c -o rps
 Run the program
-
-
-Submitted By:
-Ishika Bajaj (23BCS10706)
-Shashi Bhushan Thakur (23BCS10663)
-Satyam Raj (23BCS10145)
-
 ./rps
 
 🔹 Future Enhancements
 Add a graphical user interface (GUI)
 Introduce multiplayer and AI-based adaptive gameplay
 Store scores and game history using file handling
+
+Submitted By:
+Ishika Bajaj (23BCS10706),
+Shashi Bhushan Thakur (23BCS10663),
+Satyam Raj (23BCS10145)
