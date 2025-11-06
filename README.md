@@ -15,7 +15,7 @@ Platform: Windows / Linux
 
 🔹 How to Run
 Clone this repository
-git clone https://github.com/yourusername/Rock-Paper-Scissors-Game.git
+git clone [https://github.com/yourusername/Rock-Paper-Scissors-Game.git](https://github.com/SbThakur02/-Rock-Paper-Scissors-Game)
 Open the folder in your IDE or terminal
 Compile the code
 gcc rock_paper_scissors.c -o rps
