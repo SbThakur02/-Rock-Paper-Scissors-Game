@@ -20,6 +20,13 @@ Open the folder in your IDE or terminal
 Compile the code
 gcc rock_paper_scissors.c -o rps
 Run the program
+
+
+Submitted By:
+Ishika Bajaj (23BCS10706)
+Shashi Bhushan Thakur (23BCS10663)
+Satyam Raj (23BCS10145)
+
 ./rps
 
 🔹 Future Enhancements
